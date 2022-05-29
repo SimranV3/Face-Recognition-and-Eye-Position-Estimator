@@ -17,6 +17,8 @@
 
 • The project has a feature of counting the number of eye-blinks of the user.
 
+### Compatible Platforms
+Laptops, Desktops and Tablet PCs
 
 
 ## Features
