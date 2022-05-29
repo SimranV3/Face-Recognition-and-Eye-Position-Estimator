@@ -1,3 +1,5 @@
+
+
 # Face-Recognition-and-Eye-Position-Estimator
 
 
@@ -23,6 +25,21 @@
 - Record Attendance
 - Calculate number of eye-blinks
 - Voice output of eye-position
+
+
+## Navigating through the Application
+![Untitled presentation](https://user-images.githubusercontent.com/77922549/170884186-53b62339-aa77-4245-a6b8-bc4a8ee4be0c.jpg)
+
+
+## Research and Study
+### Face Landmarks
+![1](https://user-images.githubusercontent.com/77922549/170884318-078419b4-9d33-45c6-8b7a-15981385d43c.jpg)
+
+### Face Mesh Map Points
+![2](https://user-images.githubusercontent.com/77922549/170884375-6925b06d-3b77-45f9-af91-af4608deb1cc.jpg)
+
+
+
 
 ## Resources Used
 
