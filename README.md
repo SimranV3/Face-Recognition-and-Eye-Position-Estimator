@@ -24,5 +24,8 @@
 - Calculate number of eye-blinks
 - Voice output of eye-position
 
+## Resources Used
 
+ - [ML Blog](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+ - [Face Recognition + Attendance](https://www.youtube.com/watch?v=sz25xxF_AVE)
 
