@@ -7,7 +7,7 @@
 
 ## About The Project
 
-• Face Recognition project built during Microsoft Engage 2022 program.
+
 
 • This is an Attendance project that will use webcam to detect faces and record the attendance live.
 
